@@ -1,2 +1,3 @@
-# Hello World
- First steps with git and github
+# Hello World!
+
+First steps with git and github.
